@@ -1,2 +1,2 @@
-# samhain-addon-for-splunk
-Samhain Addon for Splunk Enterprise
+# Samhain Addon for Splunk Enterprise
+
