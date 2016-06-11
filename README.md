@@ -19,6 +19,7 @@ curl -OL http://www.la-samhna.de/samhain/samhain-current.tar.gz
 tar -xzvf samhain-current.tar.gz
 tar -xzvf samhain-{{version}}.tar.gz
 cd samhain-{{version}}
+yum install -y gcc audit-libs-devel libattr-devel libacl-devel
 ./configure
 make
 make install
