@@ -10,6 +10,7 @@ The following event types map the samhain events to the Splunk Common Informatio
 | Source type   | Event type    | Description   | CIM data models |
 | ------------- | ------------- | ------------- | ------------- |
 | samhain  | samhain_filesystem_change  | Samhain events with the ```change_type``` field set to "filesystem" | [Change Analysis](http://docs.splunk.com/Documentation/CIM/latest/User/ChangeAnalysis) |
+| samhain  | samhain_process_information | Samhain events relating to the running of the Samhain process | N/A |
 
 ## Installing Samhain
 It's advisable to read through the full instructions [here](http://www.la-samhna.de/samhain/s_download.html), however, if you're only interested in getting Samhain installed with its default options then simply use the commands below:
