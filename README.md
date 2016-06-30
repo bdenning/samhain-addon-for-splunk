@@ -1,5 +1,5 @@
 # Samhain Addon for Splunk Enterprise
-[![Splunk App](https://splunkbase.splunk.com/app/3191)](https://img.shields.io/badge/version-1.1.0-blue.svg) [![Splunk CIM](http://docs.splunk.com/Documentation/CIM/4.4.0/User/Overview)](https://img.shields.io/badge/splunk%20cim-4.4.0-brightgreen.svg)
+[![Splunk App](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://splunkbase.splunk.com/app/3191) [![Splunk CIM](https://img.shields.io/badge/splunk%20cim-4.4.0-brightgreen.svg)](http://docs.splunk.com/Documentation/CIM/4.4.0/User/Overview)
 
 The Samhain Addon for Splunk Enterprise adds the Splunk knowledge objects required to parse events produced by the [Samhain](http://www.la-samhna.de/samhain/) host-based intrusion detection system and is compatible with the [Splunk Common Information Model](http://docs.splunk.com/Documentation/CIM/latest/User/ChangeAnalysis).
 
